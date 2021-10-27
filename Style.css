@@ -174,7 +174,7 @@
     background-color:black;
     margin-top: 5px;
     }
-    @media only screen and (max-width: 1000px) {
+    @media only screen and (max-width: 980px) {
         #R3{
         margin-left: 10px;
         }
